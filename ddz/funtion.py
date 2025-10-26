@@ -2,5 +2,5 @@ import numpy
 import sys
 
 
-if main == "__main__":
-    pass
+if __name__ == "__main__":
+    print("hello world!!!")
