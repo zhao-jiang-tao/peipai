@@ -3,4 +3,4 @@ import sys
 
 
 if main == "__main__":
-    pass
+    print("cloud modify")
